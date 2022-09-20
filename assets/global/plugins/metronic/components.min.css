@@ -1,0 +1,87 @@
+.dashboard-stat2,
+.dashboard-stat2 .display {
+    margin-bottom: 20px;
+	padding-right:5px;	
+	padding-left:5px;
+}
+.dashboard-stat2 {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    background: #fff;
+	cursor:pointer;
+    padding: 15px 15px 30px
+}
+.dashboard-stat2.bordered {
+    border: 1px solid #e7ecf1
+}
+.dashboard-stat2 .display:after{
+	
+}
+.dashboard-stat2 .display:before {
+    content: " ";
+    display: table;
+	
+}
+.dashboard-stat2 .display:after {
+    clear: both
+}
+.dashboard-stat2 .display .number {
+    float: left;
+    display: inline-block
+}
+.dashboard-stat2 .display .number h3 {
+    margin: 0 0 2px;
+    padding: 0;
+    font-size: 30px;
+    font-weight: 400
+}
+.dashboard-stat2 .display .number h3>small {
+    font-size: 23px
+}
+.dashboard-stat2 .display .number small {
+    font-size: 14px;
+    /* color: #AAB5BC; */
+	color: #607D8B;
+    font-weight: 600;
+    text-transform: uppercase
+}
+.dashboard-stat2 .display .icon {
+    display: inline-block;
+    float: right;
+    padding: 7px 0 0
+}
+.dashboard-stat2 .display .icon>i {
+    color: #cbd4e0;
+    font-size: 26px
+}
+.dashboard-stat2 .progress-info {
+    clear: both
+}
+.dashboard-stat2 .progress-info .progress {
+    margin: 0;
+    height: 4px;
+    clear: both;
+    display: block
+}
+.dashboard-stat2 .progress-info .status {
+    margin-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+    font-size: 11px;
+    /*color: #AAB5BC;*/
+	color: #607D8B;
+	/*color: #ffffff;*/	
+    font-weight: 600;
+    text-transform: uppercase
+}
+.dashboard-stat2 .progress-info .status .status-title {
+    float: left;	
+    display: inline-block
+}
+.dashboard-stat2 .progress-info .status .status-number {
+    float: right;
+    display: inline-block
+}
