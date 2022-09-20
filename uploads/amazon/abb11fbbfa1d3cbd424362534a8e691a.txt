@@ -1,0 +1,28 @@
+Referencia obra civil : mespino@optical.pe
+Referencia trámite: jtapias@optical.pe
+
+TRAMITE
+Edward Crispin            ecrispin@optical.pe
+Alejandra Cabrera       mrumay@optical.pe
+Edward Perez              acabrera@optical.pe
+
+OBRA CIVIL - TRAMITE
+Erika Mallaupoma       emallaupoma@win.pe
+Paolo Martinez   pmartinez@win.pe
+Jonathan Alvarez   jalvarez@optical.pe
+Jean Torres jtorres@win.pe
+
+OBRA – CIVIL
+Gustavo Romero gromero@optical.pe
+Roger Rios rrios@optical.pe
+
+
+
+USUARIOS DOS PERMISOS DIFERENTES
+jalvarez@optical.pe
+Grupos Sistema:,provisiones,catastro_registro,diseño,edicion_unifilar,lectura_unifilar,view_relacionclienteresolutor_rpt,
+Grupos Ticket:,provisiones,catastro_registro,diseño,edicion_unifilar,lectura_unifilar,view_relacionclienteresolutor_rpt,tk_planta_externa,
+
+
+
+
